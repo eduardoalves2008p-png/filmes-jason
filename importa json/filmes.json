@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nome": "Frangoelho",
+        "sinopse": "conta a história de Hopper (Frangoelho), um jovem herói desajeitado que é metade galinha e metade coelho",
+        "categoria": "Animação, Aventura",
+        "notanoIMDB": 6.5
+    },
+    
+    {
+        "id": 2,
+        "nome": "Show de Truman",
+        "sinopse": "conta a história de um cara chamado Truman e como é o desnrolar da vida dele",
+        "categoria": "Fantasia, Suspense, Drama",
+        "notanoIMDB": 4.5
+    },
+    
+    {
+        "id": 3,
+        "nome": "Batman o cavaleiro das trevas",
+        "sinopse": " O grande morcego retorna as ruas, mas com uma surpresa inesperada, seu maior arqui-inimigo faz de sua vida um verdadeiro desafio",
+        "categoria": "Suspense , Drama, Ficção",
+        "notanoIMDB": 8.0
+    },
+    
+    {
+        "id": 4,
+        "nome": "Sociedade dos poetas mortos",
+        "sinopse": "Retrata a transformação de alunos de um internato rígido após a chegada de um professor de literatura não convencional",
+        "categoria": "Drama,Cult",
+        "notanoIMDB": 9.0
+    },
+    
+    {
+        "id": 5,
+        "nome": "Como treinar seu Dragão",
+        "sinopse":"Conta como domar dragões e bestas marinhas gigantes.",
+        "categoria": "Romance,Drama",
+        "notanoIMDB": 7.0
+    },
+
+     {
+        "id": 6,
+        "nome": "As Vantagens de ser invisível",
+        "sinopse": "Charlie é um jovem que tem dificuldades para interagir em sua nova escola. Com os nervos à flor da pele, ele se sente deslocado no ambiente. Seu professor de literatura, no entanto, acredita nele e o vê como um gênio. Mas Charlie continua a pensar pouco de si... até o dia em que dois amigos, Patric e Sam , passam a andar com ele.",
+        "categoria": "Comédia Dramática,Romance",
+        "notanoIMDB": 8.5
+    }
+
+
+]
